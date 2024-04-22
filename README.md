@@ -53,7 +53,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/ZiroSmith"><img alt="Static Badge" src="https://img.shields.io/badge/-Julia%20MenachoPages"></a>
+<a href="https://linkedin.com/in/ZiroSmith"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mr.kizilow77@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://vk.com/littleenglishh"><img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Вконтакте Badge"/></a>
 <a href="https://t.me/littleenglishh"><img src="https://img.shields.io/badge/Телеграмм-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Телеграмм Badge"/></a>
