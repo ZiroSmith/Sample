@@ -1,6 +1,6 @@
-![Julia Banner](https://raw.githubusercontent.com/ZiroSmith/Sample/master/assets/banner.png)
+![Julia Banner](https://raw.githubusercontent.com/ZiroSmith/Sample/main/assets/banner.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Julia</h2>
+<img alt="hi" src="./assets/hi.gif" width='40' align="left"/><h2>Hey there! I'm Julia</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Julia -->
 
@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="coding" src="https://raw.githubusercontent.com/ZiroSmith/Sample/main/assets/coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
