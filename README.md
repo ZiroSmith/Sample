@@ -1,6 +1,6 @@
 ![Julia Banner](https://raw.githubusercontent.com/ZiroSmith/Sample/main/assets/banner.png)
 
-<img alt="hi" src="https://raw.githubusercontent.com/ZiroSmith/Sample/main/assets/hi.gif" width='40' align="left"/><h2>Hey there! I'm Julia</h2>
+<img alt="hi" src="https://raw.githubusercontent.com/ZiroSmith/Sample/main/assets/Hi.gif" width='40' align="left"/><h2>Hey there! I'm Julia</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Julia -->
 
